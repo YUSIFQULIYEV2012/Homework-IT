@@ -56,6 +56,9 @@ header {
 header.title {
   background-color: #252b42;
 }
+header .menu-item-wrapper {
+  cursor: pointer;
+}
 header .menu-content-wrapper {
   display: flex;
   align-items: center;
@@ -75,9 +78,11 @@ header .button-Join {
   background-color: #23A6F0;
   padding: 20px 25px 20px 25px;
   border-radius: 5px;
+  cursor: pointer;
 }
 header .button-Login {
   margin-left: 100px;
+  cursor: pointer;
 }
 
 .main .header-tag {
@@ -105,6 +110,7 @@ header .button-Login {
   border-radius: 5px;
   margin-left: 150px;
   color: #fff;
+  cursor: pointer;
 }
 .main .button-2 {
   background: none;
@@ -113,6 +119,7 @@ header .button-Login {
   padding: 15px 30px 15px 30px;
   color: #23A6F0;
   margin-left: 10px;
+  cursor: pointer;
 }
 
 .Img-bg {
@@ -225,6 +232,7 @@ header .button-Login {
   color: #23A6F0;
   margin-left: 800px;
   margin-top: 50px;
+  cursor: pointer;
 }
 
 .main-3 {
@@ -340,6 +348,7 @@ header .button-Login {
   color: #23A6F0;
   margin-left: 30px;
   margin-top: 20px;
+  cursor: pointer;
 }
 
 .product-card-2 {
@@ -431,6 +440,7 @@ header .button-Login {
   color: #23A6F0;
   margin-left: 30px;
   margin-top: 20px;
+  cursor: pointer;
 }
 
 .product-card-3 {
@@ -522,6 +532,7 @@ header .button-Login {
   color: #23A6F0;
   margin-left: 30px;
   margin-top: 20px;
+  cursor: pointer;
 }
 
 .hero-container {
